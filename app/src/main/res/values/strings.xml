@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <array name="tipo_pizza">
+        <item>Americana</item>
+        <item>Pepperoni</item>
+        <item>Hawaiana</item>
+        <item>Meat Lover</item>
+    </array>
+</resources>
+
